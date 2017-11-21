@@ -60,7 +60,8 @@ FIND -> EVALUATE -> COMBINE -> COLLECT
 
 #HSLIDE
 
-Why was it so hard?
+## Finding is the easy part
+
 
 ---?image=images/google.png&size=contain
 
