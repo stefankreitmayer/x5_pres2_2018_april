@@ -68,6 +68,7 @@ FIND -> EVALUATE -> COMBINE -> COLLECT
 #HSLIDE
 
 ##Google search
+
 helps you
 
 FIND
@@ -81,6 +82,7 @@ FIND
 #HSLIDE
 
 ##Amazon.com
+
 helps you
 
 FIND
@@ -104,6 +106,7 @@ Trimming one's collection is just as important (and difficult) as building it.
 #HSLIDE
 
 ##Spotify
+
 helps you
 
 FIND
