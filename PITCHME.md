@@ -14,6 +14,8 @@ Help learners <span style="color:#e49436">efficiently</span>
 
 the right OERs
 
+---?image=images/learning_project.png
+
 #HSLIDE
 
----?image=images/learning_project.png
+test
