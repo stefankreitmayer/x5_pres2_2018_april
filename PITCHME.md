@@ -95,7 +95,7 @@ COMBINE
 
 #HSLIDE
 
-## Open Education == super shopping ?
+## Open Education ~ shopping²
 
 Free to get things
 
