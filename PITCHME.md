@@ -79,6 +79,8 @@ FIND
 
 ~~COLLECT~~
 
+---?image=images/amazon.png&size=contain
+
 #HSLIDE
 
 ## Amazon.com
@@ -95,7 +97,7 @@ COMBINE
 
 #HSLIDE
 
-## Open Education ~ shopping²
+## Open Education == shopping²
 
 Free to get things
 
