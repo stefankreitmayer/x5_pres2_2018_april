@@ -7,9 +7,9 @@ Examples and suggestsion based on a true story
 #HSLIDE
 
 Help learners <span style="color:#e49436">efficiently</span>
-* find
-* evaluate
-* combine
-* collect
+1. find
+2. evaluate
+3. combine
+4. collect
 
-...the right OERs
+the right OERs
