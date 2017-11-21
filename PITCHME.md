@@ -12,9 +12,7 @@ Help someone in a <span style="color:#3694e4">learning project</span>
 3. combine
 4. collect
 
-OERs
-
-<span style="color:#e49436">effectively</span> and <span style="color:#e49436">efficiently</span>
+OERs <span style="color:#e49436">effectively</span> and <span style="color:#e49436">efficiently</span>
 
 
 ---?image=project.png
