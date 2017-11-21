@@ -64,22 +64,43 @@ Why was it so hard?
 
 ---?image=images/google.png&size=contain
 
+#HSLIDE
 
-3. What ideas can we borrow from Google, Amazon, Netflix, etc?
+Google search helps you
 
-
+FIND
+~~EVALUATE~~
+~~COMBINE~~
+~~COLLECT~~
 
 #HSLIDE
 
-#HSLIDE
+Amazon.com helps you
+
+FIND
+EVALUATE
+COMBINE
+~~COLLECT~~
 
 #HSLIDE
 
-3. It's like shopping, only better
+## Open Education is like shopping, only better
+
+Getting things is free
+
+So is returning things
+
+Trimming one's collection is just as important (and difficult) as building it.
 
 #HSLIDE
 
-#HSLIDE
+Spotify helps you
+
+FIND
+EVALUATE
+COMBINE
+COLLECT
 
 #HSLIDE
 
+Thanks
