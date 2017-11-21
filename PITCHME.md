@@ -12,9 +12,11 @@ Help learners
 3. combine
 4. collect
 
-OERs <span style="color:#e49436">effectively</span> and <span style="color:#e49436">efficiently</span>
+OERs
 
-within their current <span style="color:#9436e4">learning project</span>
+<span style="color:#e49436">effectively</span> and <span style="color:#e49436">efficiently</span>
+
+to support their <span style="color:#9436e4">learning project</span>
 
 ---?image=project.png
 
