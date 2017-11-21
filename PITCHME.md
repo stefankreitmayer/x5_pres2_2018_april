@@ -45,13 +45,19 @@ We <span style="color:#e49436">may not need</span> to distinguish between user r
 
 ## MULTIPLE PROJECTS
 
-People may pursue multiple learning projects in parallel
+People may pursue multiple, unrelated projects in parallel
 
-Our platform <span style="color:#e49436">must</span> keep them apart in order to avoid misguided recommendations.
+Our platform <span style="color:#e49436">must</span> distinguish between projects in order to avoid misguided recommendations.
 
-(That's doable)
+(Should be doable)
 
 #HSLIDE
+
+## GENESIS OF A LEARNING PROJECT
+
+FIND -> EVALUATE -> COMBINE -> COLLECT
+
+<-------------------------------------
 
 
 #HSLIDE
