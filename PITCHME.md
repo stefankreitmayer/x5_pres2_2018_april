@@ -6,15 +6,17 @@ Examples and suggestsion based on a true story
 
 #HSLIDE
 
-Help learners <span style="color:#e49436">efficiently</span>
+Help learners
 1. find
 2. evaluate
 3. combine
 4. collect
 
-the right OERs
+OERs <span style="color:#e49436">effectively</span> and <span style="color:#e49436">efficiently</span>
 
----?image=images/learning_project.png
+in the context of a <span style="color:#9436e4">learning project</span>
+
+---?image=project.png
 
 #HSLIDE
 
