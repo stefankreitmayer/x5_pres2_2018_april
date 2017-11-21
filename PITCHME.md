@@ -111,7 +111,11 @@ You can't put in everything
 
 ## We need new metaphors
 
-How about several trolleys?
+How about multiple trolleys?
+
+Playlists?
+
+Other lists?
 
 #HSLIDE
 
@@ -127,9 +131,11 @@ COMBINE
 
 COLLECT
 
+But learning isn't like listening to music.
+
 #HSLIDE
 
-## Spotify
+## What's next
 
 Trolley, playlist, collection, basket, resource tree, net, fractal...?
 
