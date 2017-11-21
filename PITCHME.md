@@ -1,9 +1,9 @@
 #HSLIDE
 
-### How might we support
-## an OER l<span style="color:#3694e4">earning project</span>?
-#### Examples and ideas
-based on a true story
+## How might we support
+### someone's OER <span style="color:#3694e4">learning project</span>?
+
+Examples and ideas based on a true story
 
 #HSLIDE
 
