@@ -13,3 +13,7 @@ Help learners <span style="color:#e49436">efficiently</span>
 4. collect
 
 the right OERs
+
+#HSLIDE
+
+![project](images/learning_project.svg)
