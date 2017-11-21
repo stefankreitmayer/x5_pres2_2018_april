@@ -16,4 +16,4 @@ the right OERs
 
 #HSLIDE
 
-![project](images/learning_project.png)
+---?image=images/learning_project.png
