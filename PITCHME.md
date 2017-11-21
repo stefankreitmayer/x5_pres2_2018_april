@@ -33,11 +33,11 @@ OERs <span style="color:#e49436">effectively</span> and <span style="color:#e494
 ## USER ROLES
 
 Someone in a learning project
-* can be a teacher
-* can be a student
+* could be a teacher
+* could be a student
 * etc
 
-Our platform <span style="color:#e49436">may not need</span> to distinguish between user roles.
+We <span style="color:#e49436">may not need</span> to distinguish between user roles.
 
 (That's good!)
 
