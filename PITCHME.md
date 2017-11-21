@@ -14,7 +14,7 @@ Help learners
 
 OERs <span style="color:#e49436">effectively</span> and <span style="color:#e49436">efficiently</span>
 
-in the context of a <span style="color:#9436e4">learning project</span>
+within their current <span style="color:#9436e4">learning project</span>
 
 ---?image=project.png
 
