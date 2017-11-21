@@ -49,7 +49,7 @@ People may pursue multiple learning projects in parallel
 
 Our platform <span style="color:#e49436">must</span> keep them apart in order to avoid misguided recommendations.
 
-(That's work)
+(That's doable)
 
 #HSLIDE
 

@@ -33,7 +33,7 @@
      inkscape:cx="1.73e+03"
      inkscape:cy="1.55e+03"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4208"
      showgrid="false"
      width="1200mm"
      units="px"
@@ -320,21 +320,21 @@
          style="opacity:1;fill:none;fill-opacity:0.815;fill-rule:nonzero;stroke:#333333;stroke-width:3.542;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="ellipse4241"
          cx="1173"
-         cy="666" />
+         cy="606" />
       <text
          sodipodi:linespacing="100%"
          id="text4247"
-         y="853.54987"
+         y="793.69104"
          x="1096.0583"
          style="font-style:normal;font-weight:normal;font-size:21.212px;line-height:100%;font-family:sans-serif;text-align:start;letter-spacing:7.636px;word-spacing:0px;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-size:84.825px;text-align:start;text-anchor:start;fill:#1a1a1a"
-           y="853.54987"
+           y="793.69104"
            x="1096.0583"
            id="tspan4249"
            sodipodi:role="line">many other OERs</tspan></text>
       <circle
-         cy="666"
+         cy="606"
          cx="1353"
          id="circle4251"
          style="opacity:1;fill:none;fill-opacity:0.815;fill-rule:nonzero;stroke:#333333;stroke-width:3.542;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -344,11 +344,11 @@
          style="opacity:1;fill:none;fill-opacity:0.815;fill-rule:nonzero;stroke:#333333;stroke-width:3.542;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle4253"
          cx="1533"
-         cy="666" />
+         cy="606" />
       <path
          inkscape:connector-curvature="0"
          id="path4255"
-         d="M 933,-299 1150,593"
+         d="M 933,-299 1140,542"
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:nodetypes="cc" />
       <path
