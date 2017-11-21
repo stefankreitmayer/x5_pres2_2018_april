@@ -16,7 +16,7 @@ OERs
 
 <span style="color:#e49436">effectively</span> and <span style="color:#e49436">efficiently</span>
 
-to support their <span style="color:#9436e4">learning project</span>
+to support their <span style="color:#3694e4">learning project</span>
 
 ---?image=project.png
 
