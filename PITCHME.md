@@ -16,7 +16,7 @@ Help someone in a <span style="color:#3694e4">learning project</span>
 OERs <span style="color:#e49436">effectively</span> and <span style="color:#e49436">efficiently</span>
 
 
----?image=https://github.com/stefankreitmayer/x5_pres1_20171123/images/learning_project.png
+---?image=http://icem.folkwang-hochschule.de/~kreitmayer/learning_project.png
 
 #HSLIDE
 
