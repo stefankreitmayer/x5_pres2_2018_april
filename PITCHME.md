@@ -69,8 +69,11 @@ Why was it so hard?
 Google search helps you
 
 FIND
+
 ~~EVALUATE~~
+
 ~~COMBINE~~
+
 ~~COLLECT~~
 
 #HSLIDE
@@ -78,8 +81,11 @@ FIND
 Amazon.com helps you
 
 FIND
+
 EVALUATE
+
 COMBINE
+
 ~~COLLECT~~
 
 #HSLIDE
@@ -97,8 +103,11 @@ Trimming one's collection is just as important (and difficult) as building it.
 Spotify helps you
 
 FIND
+
 EVALUATE
+
 COMBINE
+
 COLLECT
 
 #HSLIDE
