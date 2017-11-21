@@ -62,7 +62,7 @@ FIND -> EVALUATE -> COMBINE -> COLLECT
 
 Why was it so hard?
 
----?image=google.png&size=contain
+---?image=images/google.png&size=contain
 
 
 3. What ideas can we borrow from Google, Amazon, Netflix, etc?
