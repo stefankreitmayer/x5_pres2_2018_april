@@ -28,6 +28,8 @@ OERs <span style="color:#e49436">effectively</span> and <span style="color:#e494
 
 ---?image=http://icem.folkwang-hochschule.de/~kreitmayer/learning_project.png&size=contain
 
+#HSLIDE
+
 ## Mind you...
 
 Someone in a learning project
