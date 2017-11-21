@@ -95,13 +95,23 @@ COMBINE
 
 #HSLIDE
 
-## Open Education is like shopping, only better
+## Open Education == super shopping ?
 
-Getting things is free
+Free to get things
 
-So is returning things
+Free to get rid of things
 
-Trimming one's collection is just as important (and difficult) as building it.
+#HSLIDE
+
+## Trolley problem 2.0
+
+You can't put in everything
+
+#HSLIDE
+
+## We need new metaphors
+
+How about several trolleys?
 
 #HSLIDE
 
@@ -116,6 +126,12 @@ EVALUATE
 COMBINE
 
 COLLECT
+
+#HSLIDE
+
+## Spotify
+
+Trolley, playlist, collection, basket, resource tree, net, fractal...?
 
 #HSLIDE
 
