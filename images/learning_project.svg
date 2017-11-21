@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="learning_project.svg"
-   inkscape:export-filename="/Users/stefan/x5/presentations/2017-11-Ljubljana/learning_project.png"
+   inkscape:export-filename="/Users/stefan/x5/presentations/2017-11-Ljubljana/images/learning_project.png"
    inkscape:export-xdpi="25.4"
    inkscape:export-ydpi="25.4">
   <defs
@@ -30,7 +30,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.156"
-     inkscape:cx="1.82e+03"
+     inkscape:cx="1.73e+03"
      inkscape:cy="1600"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -77,7 +77,7 @@
          id="tspan4157"
          x="71.174667"
          y="-1992.0076"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:39.906px;fill:#ffffff;fill-opacity:0.815">Study Project: ML Fundamentals</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:39.906px;fill:#ffffff;fill-opacity:0.815">Learning Project: ML Fundamentals</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:24.95px;line-height:100%;font-family:sans-serif;letter-spacing:8.982px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

@@ -1,7 +1,7 @@
 #HSLIDE
 
 ## How might we support
-### someone's OER <span style="color:#3694e4">learning project</span>?
+### someone's <span style="color:#3694e4">learning project</span>?
 
 Examples and ideas based on a true story
 
@@ -16,7 +16,7 @@ Help someone in a <span style="color:#3694e4">learning project</span>
 OERs <span style="color:#e49436">effectively</span> and <span style="color:#e49436">efficiently</span>
 
 
----?image=project.png
+---?image=images/learning_project.png
 
 #HSLIDE
 
