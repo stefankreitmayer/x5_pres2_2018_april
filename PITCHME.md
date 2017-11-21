@@ -6,9 +6,10 @@ Examples and suggestsion based on a true story
 
 #HSLIDE
 
-Help learners efficiently
+Help learners <span style="color:#e49436">efficiently</span>
 * find
 * evaluate
 * combine
 * collect
-the right OERs
+
+...the right OERs
