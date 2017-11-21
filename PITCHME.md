@@ -35,8 +35,11 @@ OERs <span style="color:#e49436">effectively</span> and <span style="color:#e494
 Someone in a learning project
 * can be a teacher
 * can be a student
+* etc
 
--> our platform <span style="color:#e49436">may not</span> need to distinguish between user roles. (That's good!)
+Our platform <span style="color:#e49436">may not need</span> to distinguish between user roles.
+
+(That's good!)
 
 #HSLIDE
 
@@ -44,7 +47,9 @@ Someone in a learning project
 
 People may pursue multiple learning projects in parallel
 
--> our platform <span style="color:#e49436">must</span> keep them apart in order to avoid misguided recommendations.
+Our platform <span style="color:#e49436">must</span> keep them apart in order to avoid misguided recommendations.
+
+(That's a bit of work)
 
 #HSLIDE
 
