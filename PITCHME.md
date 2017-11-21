@@ -6,7 +6,7 @@ Examples and suggestsion based on a true story
 
 #HSLIDE
 
-Help learners
+Help someone in a <span style="color:#3694e4">learning project</span>
 1. find
 2. evaluate
 3. combine
@@ -16,7 +16,6 @@ OERs
 
 <span style="color:#e49436">effectively</span> and <span style="color:#e49436">efficiently</span>
 
-to support their <span style="color:#3694e4">learning project</span>
 
 ---?image=project.png
 
