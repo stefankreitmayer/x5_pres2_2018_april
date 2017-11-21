@@ -9,9 +9,8 @@ Examples and ideas based on a true story
 
 OUTLINE
 1. Our challenge
-2. The concept of a learning project
-3. 
-
+2. About learning projects
+3. Interaction metaphors
 
 #HSLIDE
 
@@ -45,7 +44,7 @@ We <span style="color:#e49436">may not need</span> to distinguish between user r
 
 ## MULTIPLE PROJECTS
 
-People may pursue multiple, unrelated projects in parallel
+People may pursue multiple, unrelated projects
 
 Our platform <span style="color:#e49436">must</span> distinguish between projects in order to avoid misguided recommendations.
 
@@ -53,12 +52,22 @@ Our platform <span style="color:#e49436">must</span> distinguish between project
 
 #HSLIDE
 
-## GENESIS OF A LEARNING PROJECT
+## BUILDING A LEARNING PROJECT
 
 FIND -> EVALUATE -> COMBINE -> COLLECT
 
 <-------------------------------------
 
+#HSLIDE
+
+Why was it so hard?
+
+---?image=google.png&size=contain
+
+
+3. What ideas can we borrow from Google, Amazon, Netflix, etc?
+
+
 
 #HSLIDE
 
@@ -66,7 +75,7 @@ FIND -> EVALUATE -> COMBINE -> COLLECT
 
 #HSLIDE
 
-#HSLIDE
+3. It's like shopping, only better
 
 #HSLIDE
 
