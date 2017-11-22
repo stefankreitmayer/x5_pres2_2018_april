@@ -137,12 +137,77 @@ But learning isn't like listening to music.
 
 #HSLIDE
 
-## What's next
+## Collection Metaphors
 
-Trolley, playlist, collection, basket, resource tree, net, fractal...?
+Trolley?
+Playlist?
+Collection?
+Basket?
+Tree?
+Net?
+Graph?
+Table?
+Funnel?
+Bag?
+
+
+#HSLIDE
+
+## Curation Process
+
+Integrate with study flow?
+
+Separate curating from studying?
+
+#HSLIDE
+
+## Interface Challenges
+
+Would it help to have dedicated slots for different classes of resources?
+
+If so, how to classify?
+* by format (MOOC, podcast, book, blog...)?
+* by activity (watch, listen, read, write, talk, meet...)
+
+
+#HSLIDE
+
+## Interface Challenges (cont.)
+
+How to visualise relations between resources?
+
+#HSLIDE
+
+---?image=http://icem.folkwang-hochschule.de/~kreitmayer/learning_project.png&size=contain
+
+
+#HSLIDE
+
+## Related ideas
+
+Learning Project
+* knowledge centric
+* bounded by topic
+* focus on global intent + planning
+* focus on large OERs
+* focus on complete OERs (initially)
+
+Learning Situation (see Colin's paper)
+* learner centric
+* bounded by context
+* global and local intent
+* includes small OERs
+* includes parts of OERs
+
+(This should be a table)
+
+Two complementary angles of analysis. Not mututally exclusive.
 
 #HSLIDE
 
 ## Questions please
+
+Slides are at
+https://gitpitch.com/stefankreitmayer/x5_pres1_20171123
 
 stefankreitmayer@gmail.com
