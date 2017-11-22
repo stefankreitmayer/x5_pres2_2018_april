@@ -98,7 +98,7 @@ But learning isn't like listening to music.
 
 #HSLIDE
 
-## New Interface Metaphors
+## What Metaphors
 
 Trolley?
 Playlist?
@@ -125,7 +125,7 @@ Bag?
 
 #HSLIDE
 
-## Could this be part of an interface?
+## Could this be an interface?
 
 ---?image=http://icem.folkwang-hochschule.de/~kreitmayer/learning_project.png&size=contain
 
