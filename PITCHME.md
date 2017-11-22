@@ -8,14 +8,14 @@ Examples and ideas based on a true story
 #HSLIDE
 
 OUTLINE
-1. Our challenge
-2. About learning projects
+1. Challenge
+2. What's a learning project?
 3. Curating
-4. New metaphors beyond search and shopping
+4. Curating vs studying
 
 #HSLIDE
 
-#CHALLENGE
+## CHALLENGE
 
 Help someone in a <span style="color:#3694e4">learning project</span>
 1. find
@@ -34,15 +34,14 @@ OERs <span style="color:#e49436">effectively</span> and <span style="color:#e494
 
 People may pursue multiple, unrelated projects
 
-Our platform <span style="color:#e49436">must</span> distinguish between projects in order to avoid misguided recommendations.
-
-(Should be doable?)
+-> Our system <span style="color:#e49436">must</span> distinguish between projects in order to avoid misguided recommendations.
 
 #HSLIDE
 
 ## curating
 
 transforming a pile of maybes
+
 into a handful of go-to resources
 
 ---?image=images/curating.png&size=auto 90%
@@ -53,8 +52,12 @@ into a handful of go-to resources
 
 * FIND -> optimise search results, ...
 * EVALUATE -> show plenty of information per item, facilitate preview, ...
-* COMBINE -> visualise relations, balance modalities, ...
-* COLLECT -> keep the links, structure and organise them, ...
+* COMBINE -> visualise relations and modalities, ...
+* COLLECT -> keep the links, organise them, ...
+
+#HSLIDE
+
+## How do Google, etc. do it?
 
 #HSLIDE
 
@@ -130,7 +133,7 @@ Bag?
 
 #HSLIDE
 
-## Could the result actually look like this?
+## Could the result look like this?
 
 ---?image=http://icem.folkwang-hochschule.de/~kreitmayer/learning_project.png&size=contain
 
@@ -143,8 +146,8 @@ Someone curating a learning project
 * could be a teacher, etc
 
 ### Therefore
-1. The curation part of our system <span style="color:#e49436">may not need</span> to distinguish between user roles. (Yay!)
-2. Curating (knowledge-centric) and studying (learner-centric) are separate concerns. (Double yay!)
+1. The curation part of our system <span style="color:#e49436">need not care</span> about user roles. (Yay!)
+2. Curating (knowledge-centric) and studying (learner-centric) are <span style="color:#e49436">separate concerns</span>. (Double yay!)
 
 #HSLIDE
 
@@ -155,4 +158,4 @@ https://gitpitch.com/stefankreitmayer/x5_pres1_20171123
 
 stefankreitmayer@gmail.com
 
-Thanks to Richard Noss for feedback on the slides
+Thanks to Richard Noss for help with the slides
