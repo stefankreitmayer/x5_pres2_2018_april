@@ -60,13 +60,6 @@ Our platform <span style="color:#e49436">must</span> distinguish between project
 
 #HSLIDE
 
-## Finding is the easy part
-
-
----?image=images/google.png&size=contain
-
-#HSLIDE
-
 ## Google search
 
 helps you
@@ -78,6 +71,8 @@ FIND
 ~~COMBINE~~
 
 ~~COLLECT~~
+
+---?image=images/google.png&size=contain
 
 #HSLIDE
 
