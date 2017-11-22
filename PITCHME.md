@@ -79,8 +79,6 @@ FIND
 
 ~~COLLECT~~
 
----?image=images/amazon.png&size=contain
-
 #HSLIDE
 
 ## Amazon.com
@@ -94,6 +92,8 @@ EVALUATE
 COMBINE
 
 ~~COLLECT~~
+
+---?image=images/amazon.png&size=contain
 
 #HSLIDE
 
