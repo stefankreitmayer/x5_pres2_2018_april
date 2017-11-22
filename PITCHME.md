@@ -49,11 +49,13 @@ People may pursue multiple, unrelated projects
 
 Our platform <span style="color:#e49436">must</span> distinguish between projects in order to avoid misguided recommendations.
 
-(Should be doable)
+(Should be doable?)
 
 #HSLIDE
 
-## Curating a learning project
+## curating
+
+pile of maybes -> handful of go-to resources
 
 ---?image=images/curating.png&size=auto 90%
 
@@ -92,30 +94,6 @@ COMBINE
 
 #HSLIDE
 
-## Open Education == shopping²
-
-Free to get things
-
-Free to get rid of things
-
-#HSLIDE
-
-## Trolley problem 2.0
-
-You can't put in everything
-
-#HSLIDE
-
-## We need new metaphors
-
-How about multiple trolleys?
-
-Playlists?
-
-Other lists?
-
-#HSLIDE
-
 ## Spotify
 
 helps you
@@ -132,7 +110,7 @@ But learning isn't like listening to music.
 
 #HSLIDE
 
-## Collection Metaphors
+## New Metaphors
 
 Trolley?
 Playlist?
@@ -143,8 +121,25 @@ Net?
 Graph?
 Table?
 Funnel?
+Shelf?
 Bag?
 
+
+> #HSLIDE
+
+> ## Shopping 2.0
+
+> Free to get things
+
+> Free to get rid of things
+
+> Infinite undo
+
+> #HSLIDE
+
+> ## Trolley problem 2.0
+
+> You can't add everything
 
 #HSLIDE
 
@@ -206,3 +201,5 @@ Slides are at
 https://gitpitch.com/stefankreitmayer/x5_pres1_20171123
 
 stefankreitmayer@gmail.com
+
+Thanks to Richard Noss for feedback on the slides
