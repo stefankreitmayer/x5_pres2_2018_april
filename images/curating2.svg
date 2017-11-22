@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="324mm"
-   height="198mm"
-   viewBox="0 0 1150 696"
+   width="285mm"
+   height="179mm"
+   viewBox="0 0 1010 628"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -185,8 +185,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.46"
-     inkscape:cx="338"
-     inkscape:cy="480"
+     inkscape:cx="406"
+     inkscape:cy="547"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -195,10 +195,10 @@
      inkscape:window-x="4"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
-     fit-margin-top="30"
-     fit-margin-left="40"
-     fit-margin-right="40"
-     fit-margin-bottom="30" />
+     fit-margin-top="20"
+     fit-margin-left="20"
+     fit-margin-right="20"
+     fit-margin-bottom="20" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -215,7 +215,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-122,-251)">
+     transform="translate(-193,-282)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:25px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:9px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
