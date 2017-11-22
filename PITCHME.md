@@ -10,7 +10,8 @@ Examples and ideas based on a true story
 OUTLINE
 1. Our challenge
 2. About learning projects
-3. Interaction metaphors
+3. Curating
+4. Metaphors beyond search and shopping
 
 #HSLIDE
 
@@ -52,11 +53,10 @@ Our platform <span style="color:#e49436">must</span> distinguish between project
 
 #HSLIDE
 
-## BUILDING A LEARNING PROJECT
+## Curating a learning project
 
-FIND -> EVALUATE -> COMBINE -> COLLECT
+---?image=images/curating.png&size=contain
 
-<-------------------------------------
 
 #HSLIDE
 
