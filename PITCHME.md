@@ -30,19 +30,6 @@ OERs <span style="color:#e49436">effectively</span> and <span style="color:#e494
 
 #HSLIDE
 
-## USER ROLES
-
-Someone in a learning project
-* could be a teacher
-* could be a student
-* etc
-
-We <span style="color:#e49436">may not need</span> to distinguish between user roles.
-
-(That's good!)
-
-#HSLIDE
-
 ## MULTIPLE PROJECTS
 
 People may pursue multiple, unrelated projects
@@ -173,7 +160,22 @@ How to visualise relations between resources?
 
 #HSLIDE
 
-## Related ideas
+## Curating vs studying
+
+Someone curating a learning project
+* could be a teacher
+* could be a student
+* etc
+
+### Therefore
+1. Curating and studying are separate concerns.
+2. The part of our system that supports curation <span style="color:#e49436">may not need</span> to distinguish between user roles.
+
+(Yay!)
+
+#HSLIDE
+
+## Project vs Situation
 
 Learning Project
 * knowledge centric
