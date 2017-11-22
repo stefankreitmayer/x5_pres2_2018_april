@@ -11,7 +11,7 @@ OUTLINE
 1. Our challenge
 2. About learning projects
 3. Curating
-4. Metaphors beyond search and shopping
+4. New metaphors beyond search and shopping
 
 #HSLIDE
 
@@ -55,7 +55,7 @@ Our platform <span style="color:#e49436">must</span> distinguish between project
 
 ## Curating a learning project
 
----?image=images/curating.png&size=contain
+---?image=images/curating.png&size=auto 90%
 
 
 #HSLIDE
