@@ -42,7 +42,8 @@ Our platform <span style="color:#e49436">must</span> distinguish between project
 
 ## curating
 
-pile of maybes -> handful of go-to resources
+transforming a pile of maybes
+into a handful of go-to resources
 
 ---?image=images/curating.png&size=auto 90%
 
@@ -97,7 +98,7 @@ But learning isn't like listening to music.
 
 #HSLIDE
 
-## New Metaphors
+## New Interface Metaphors
 
 Trolley?
 Playlist?
@@ -111,67 +112,34 @@ Funnel?
 Shelf?
 Bag?
 
-
-> #HSLIDE
-
-> ## Shopping 2.0
-
-> Free to get things
-
-> Free to get rid of things
-
-> Infinite undo
-
-> #HSLIDE
-
-> ## Trolley problem 2.0
-
-> You can't add everything
+(Suggestions welcome)
 
 #HSLIDE
 
-## Curation Process
+## Interface Design Questions
 
-Integrate with study flow?
-
-Separate curating from studying?
-
-#HSLIDE
-
-## Interface Challenges
-
-Would it help to have dedicated slots for different classes of resources?
-
-If so, how to classify?
+1. Would it help to provide separate containers for different types of resources?
 * by format (MOOC, podcast, book, blog...)?
 * by activity (watch, listen, read, write, talk, meet...)
-
-
-#HSLIDE
-
-## Interface Challenges (cont.)
-
-How to visualise relations between resources?
+2. What relations between resources should we visualise, and how?
 
 #HSLIDE
+
+## Could this be part of an interface?
 
 ---?image=http://icem.folkwang-hochschule.de/~kreitmayer/learning_project.png&size=contain
-
 
 #HSLIDE
 
 ## Curating vs studying
 
 Someone curating a learning project
-* could be a teacher
 * could be a student
-* etc
+* could be a teacher, etc
 
 ### Therefore
 1. Curating and studying are separate concerns.
-2. The part of our system that supports curation <span style="color:#e49436">may not need</span> to distinguish between user roles.
-
-(Yay!)
+2. The part of our system that supports curation <span style="color:#e49436">may not need</span> to distinguish between user roles. (Yay!)
 
 #HSLIDE
 
