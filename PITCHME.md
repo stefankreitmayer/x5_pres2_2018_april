@@ -55,7 +55,7 @@ Our platform <span style="color:#e49436">must</span> distinguish between project
 
 ## Curating a learning project
 
----?image=images/curating.png&size=auto 90%
+---?image=images/curating.png&size=auto 80%
 
 
 #HSLIDE
