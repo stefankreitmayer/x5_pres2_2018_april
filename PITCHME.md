@@ -47,6 +47,14 @@ into a handful of go-to resources
 
 ---?image=images/curating.png&size=auto 90%
 
+#HSLIDE
+
+## Supporting each step
+
+* FIND -> optimise search results, ...
+* EVALUATE -> show plenty of information per item, facilitate preview, ...
+* COMBINE -> visualise relations, balance modalities, ...
+* COLLECT -> keep the links, structure and organise them, ...
 
 #HSLIDE
 
@@ -116,16 +124,13 @@ Bag?
 
 #HSLIDE
 
-## Interface Design Questions
+## Interface Design Challenges
 
-1. Would it help to provide separate containers for different types of resources?
-* by format (MOOC, podcast, book, blog...)?
-* by activity (watch, listen, read, write, talk, meet...)
-2. What relations between resources should we visualise, and how?
+(omitting for brevity)
 
 #HSLIDE
 
-## Could this be an interface?
+## Could the result actually look like this?
 
 ---?image=http://icem.folkwang-hochschule.de/~kreitmayer/learning_project.png&size=contain
 
@@ -138,30 +143,8 @@ Someone curating a learning project
 * could be a teacher, etc
 
 ### Therefore
-1. Curating and studying are separate concerns.
-2. The part of our system that supports curation <span style="color:#e49436">may not need</span> to distinguish between user roles. (Yay!)
-
-#HSLIDE
-
-## Project vs Situation
-
-Learning Project
-* knowledge centric
-* bounded by topic
-* focus on global intent + planning
-* focus on large OERs
-* focus on complete OERs (initially)
-
-Learning Situation (see Colin's paper)
-* learner centric
-* bounded by context
-* global and local intent
-* includes small OERs
-* includes parts of OERs
-
-(This should be a table)
-
-Two complementary angles of analysis. Not mututally exclusive.
+1. The curation part of our system <span style="color:#e49436">may not need</span> to distinguish between user roles. (Yay!)
+2. Curating (knowledge-centric) and studying (learner-centric) are separate concerns. (Double yay!)
 
 #HSLIDE
 
