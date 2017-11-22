@@ -9,7 +9,7 @@ Examples and ideas based on a true story
 
 OUTLINE
 1. Challenge
-2. What's a learning project?
+2. What is a learning project?
 3. Curating
 4. Curating vs studying
 
