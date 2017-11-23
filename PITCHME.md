@@ -7,7 +7,7 @@
 
 #HSLIDE
 
-OUTLINE
+## OUTLINE
 1. Challenge
 2. Learning project example
 3. Curating as a metaphor
@@ -30,7 +30,17 @@ OERs <span style="color:#e49436">effectively</span> and <span style="color:#e494
 
 #HSLIDE
 
-## curating
+## Finding is easy
+
+30-ish online courses
+10-ish podcast
+8-ish programming languages (+ frameworks)
+5-ish meetups in my city
+100-ish books
+
+#HSLIDE
+
+## Curating is hard
 
 transforming a pile of maybes
 
