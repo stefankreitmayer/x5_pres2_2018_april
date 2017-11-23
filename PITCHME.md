@@ -42,10 +42,6 @@ OERs <span style="color:#e49436">effectively</span> and <span style="color:#e494
 
 ## Curating is hard
 
-transforming a pile of maybes
-
-into a handful of go-to places
-
 ---?image=images/curating.png&size=auto 90%
 
 #HSLIDE
