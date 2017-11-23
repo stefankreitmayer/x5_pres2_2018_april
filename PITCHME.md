@@ -3,14 +3,14 @@
 ## How might we support
 ### someone's <span style="color:#3694e4">learning project</span>?
 
-Examples and ideas based on a true story
+(based on a true story)
 
 #HSLIDE
 
 OUTLINE
 1. Challenge
-2. What is a learning project?
-3. Curating
+2. What is a "learning project"
+3. What is "curating"
 4. Curating vs studying
 
 #HSLIDE
@@ -27,14 +27,6 @@ OERs <span style="color:#e49436">effectively</span> and <span style="color:#e494
 
 
 ---?image=http://icem.folkwang-hochschule.de/~kreitmayer/learning_project.png&size=contain
-
-#HSLIDE
-
-## MULTIPLE PROJECTS
-
-People may pursue multiple, unrelated projects
-
--> Our system <span style="color:#e49436">must</span> distinguish between projects in order to avoid misguided recommendations.
 
 #HSLIDE
 
@@ -148,6 +140,14 @@ Someone curating a learning project
 ### Therefore
 1. The curation part of our system <span style="color:#e49436">need not care</span> about user roles. (Yay!)
 2. Curating (knowledge-centric) and studying (learner-centric) are <span style="color:#e49436">separate concerns</span>. (Double yay!)
+
+#HSLIDE
+
+## MULTIPLE PROJECTS
+
+People may pursue multiple, unrelated projects
+
+-> Our system <span style="color:#e49436">must</span> distinguish between projects in order to avoid misguided recommendations.
 
 #HSLIDE
 
