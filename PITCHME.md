@@ -54,12 +54,12 @@ into a handful of go-to places
 
 * FIND -> optimise search results, ...
 * EVALUATE -> show plenty of information per item, facilitate preview, ...
-* COMBINE -> visualise relations and modalities, ...
+* COMBINE -> visualise relations, modalities, ...
 * COLLECT -> keep the links, organise them, ...
 
 #HSLIDE
 
-## How do Google, etc. do it?
+## How do Google et al. do it?
 
 #HSLIDE
 
@@ -168,6 +168,6 @@ https://gitpitch.com/stefankreitmayer/x5_pres1_20171123
 
 stefankreitmayer@gmail.com
 
-X5gon technical meeting - 23 Nov 2017 Ljubljana
+X5gon technical meeting 23 Nov 2017 Ljubljana
 
 Thanks to Richard Noss for help with the slides
