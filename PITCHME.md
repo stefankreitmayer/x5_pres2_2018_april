@@ -32,11 +32,11 @@ OERs <span style="color:#e49436">effectively</span> and <span style="color:#e494
 
 ## Finding is easy
 
-30-ish online courses
-10-ish podcast
-8-ish programming languages (+ frameworks)
-5-ish meetups in my city
-100-ish books
+* 30-ish online courses
+* 10-ish podcast
+* 8-ish programming languages (+ frameworks)
+* 5-ish meetups in my city
+* 100-ish books
 
 #HSLIDE
 
@@ -44,13 +44,13 @@ OERs <span style="color:#e49436">effectively</span> and <span style="color:#e494
 
 transforming a pile of maybes
 
-into a handful of go-to resources
+into a handful of go-to places
 
 ---?image=images/curating.png&size=auto 90%
 
 #HSLIDE
 
-## Supporting each step
+## Support for each aspect
 
 * FIND -> optimise search results, ...
 * EVALUATE -> show plenty of information per item, facilitate preview, ...
@@ -115,7 +115,6 @@ But learning isn't like listening to music.
 
 Trolley?
 Playlist?
-Collection?
 Basket?
 Tree?
 Net?
@@ -125,7 +124,7 @@ Funnel?
 Shelf?
 Bag?
 
-(Suggestions welcome)
+(Ideas welcome)
 
 #HSLIDE
 
@@ -148,7 +147,7 @@ Someone curating a learning project
 * could be a teacher, etc
 
 ### Therefore
-1. The curation part of our system <span style="color:#e49436">need not care</span> about user roles. (Yay!)
+1. The curation part of our system need <span style="color:#e49436">not distinguish between user roles</span>. (Yay!)
 2. Curating (knowledge-centric) and studying (learner-centric) are <span style="color:#e49436">separate concerns</span>. (Double yay!)
 
 #HSLIDE
@@ -157,11 +156,12 @@ Someone curating a learning project
 
 People may pursue multiple, unrelated projects
 
--> Our system <span style="color:#e49436">must</span> distinguish between projects in order to avoid misguided recommendations.
+-> Our system must <span style="color:#e49436">distinguish between projects</span> in order to avoid misguided recommendations.
 
 #HSLIDE
 
-## Questions please
+## Thank you!
+### Questions please
 
 Slides are at
 https://gitpitch.com/stefankreitmayer/x5_pres1_20171123
