@@ -144,7 +144,7 @@ Someone curating a learning project
 
 ### Therefore
 1. The curation part of our system need <span style="color:#e49436">not distinguish between user roles</span>. (Yay!)
-2. Curating (knowledge-centric) and studying (learner-centric) are <span style="color:#e49436">separate concerns</span>. (Double yay!)
+2. Curating (knowledge-centric) and studying (learner-centric, WP3) are <span style="color:#e49436">separate concerns</span>. (Double yay!)
 
 #HSLIDE
 
