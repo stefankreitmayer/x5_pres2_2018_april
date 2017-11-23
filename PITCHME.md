@@ -168,4 +168,6 @@ https://gitpitch.com/stefankreitmayer/x5_pres1_20171123
 
 stefankreitmayer@gmail.com
 
+X5gon technical meeting - 23 Nov 2017 Ljubljana
+
 Thanks to Richard Noss for help with the slides
