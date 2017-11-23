@@ -9,8 +9,8 @@
 
 OUTLINE
 1. Challenge
-2. What is a "learning project"
-3. What is "curating"
+2. Learning project example
+3. Curating as a metaphor
 4. Curating vs studying
 
 #HSLIDE
