@@ -34,7 +34,7 @@ OERs <span style="color:#e49436">effectively</span> and <span style="color:#e494
 
 * 30-ish online courses
 * 10-ish podcast
-* 8-ish programming languages (+ frameworks)
+* 10-ish programming languages (+ frameworks)
 * 5-ish meetups in my city
 * 100-ish books
 
