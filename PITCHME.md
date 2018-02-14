@@ -2,172 +2,53 @@
 
 ![Logo](images/x5gon_logo.png)
 
-### Interface Prototypes
+## Interface Prototypes
 
 April 2018
 
 Stefan Kreitmayer
+
 s.kreitmayer@ucl.ac.uk
 
 #HSLIDE
 
 ## OUTLINE
-1. Challenge
-2. Learning project example
-3. Curating as a metaphor
-4. Curating vs studying
+1. Pilot: General public (Machine Learning)
+2. Pilot: General public (UNESCO sites)
+3. Pilot: Teachers
+4. Pilot: University Learning Environment
+5. Reflection and Discussion
 
 #HSLIDE
 
-## CHALLENGE
-
-Help someone in a <span style="color:#3694e4">learning project</span>
-1. find
-2. evaluate
-3. combine
-4. collect
-
-OERs <span style="color:#e49436">effectively</span> and <span style="color:#e49436">efficiently</span>
-
-
----?image=http://icem.folkwang-hochschule.de/~kreitmayer/learning_project.png&size=contain
+# Pilot 1: General public
+## Topic: Machine Learning
 
 #HSLIDE
 
-## Finding is easy
-
-* 30-ish online courses
-* 10-ish podcast
-* 10-ish programming languages (+ frameworks)
-* 5-ish meetups in my city
-* 100-ish books
+# Pilot 2: General public
+## Topic: UNESCO sites
 
 #HSLIDE
 
-## Curating is hard
+# PILOT 3: Teachers
 
----?image=images/curating.png&size=auto 90%
+Teacher's role
 
-#HSLIDE
-
-## Support for each aspect
-
-* FIND -> optimise search results, ...
-* EVALUATE -> show plenty of information per item, facilitate preview, ...
-* COMBINE -> visualise relations, modalities, ...
-* COLLECT -> keep the links, organise them, ...
+* A) curator: X5Frontend -> archive -> static course or webpage
+* B) wizard: Personal support behind the scenes
 
 #HSLIDE
 
-## How do Google et al. do it?
-
-#HSLIDE
-
-## Google search
-
-helps you
-
-FIND
-
-~~EVALUATE~~
-
-~~COMBINE~~
-
-~~COLLECT~~
-
----?image=images/google.png&size=contain
-
-#HSLIDE
-
-## Amazon.com
-
-helps you
-
-FIND
-
-EVALUATE
-
-COMBINE
-
-~~COLLECT~~
-
----?image=images/amazon.png&size=contain
-
-#HSLIDE
-
-## Spotify
-
-helps you
-
-FIND
-
-EVALUATE
-
-COMBINE
-
-COLLECT
-
-But learning isn't like listening to music.
-
-#HSLIDE
-
-## What Metaphors
-
-Trolley?
-Playlist?
-Basket?
-Tree?
-Net?
-Graph?
-Table?
-Funnel?
-Shelf?
-Bag?
-
-(Ideas welcome)
-
-#HSLIDE
-
-## Interface Design Challenges
-
-(omitting for brevity)
-
-#HSLIDE
-
-## Could the result look like this?
-
----?image=http://icem.folkwang-hochschule.de/~kreitmayer/learning_project.png&size=contain
-
-#HSLIDE
-
-## Curating vs studying
-
-Someone curating a learning project
-* could be a student
-* could be a teacher, etc
-
-### Therefore
-1. The curation part of our system need <span style="color:#e49436">not distinguish between user roles</span>. (Yay!)
-2. Curating (knowledge-centric) and studying (learner-centric) are <span style="color:#e49436">separate concerns</span>. (Double yay!)
-
-#HSLIDE
-
-## MULTIPLE PROJECTS
-
-People may pursue multiple, unrelated projects
-
--> Our system must <span style="color:#e49436">distinguish between projects</span> in order to avoid misguided recommendations.
+# Pilot 4: Students using their institution's Learning Environment
 
 #HSLIDE
 
 ## Thank you!
 ### Questions please
 
-Slides are at
-https://gitpitch.com/stefankreitmayer/x5_pres1_20171123
+Find these slides at
 
-stefankreitmayer@gmail.com
+https://gitpitch.com/stefankreitmayer/x5_pres2_2018_april
 
-X5gon technical meeting 23 Nov 2017 Ljubljana
-
-Thanks to Richard Noss for help with the slides
+s.kreitmayer@ucl.ac.uk
