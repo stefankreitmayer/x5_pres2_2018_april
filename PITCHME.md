@@ -1,9 +1,13 @@
 #HSLIDE
 
-## X5gon
-
 ![Logo](images/x5gon_logo.png)
 
+### Interface Prototypes
+
+April 2018
+
+Stefan Kreitmayer
+s.kreitmayer@ucl.ac.uk
 
 #HSLIDE
 
