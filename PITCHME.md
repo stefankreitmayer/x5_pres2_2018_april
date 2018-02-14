@@ -43,18 +43,18 @@ Hypothesis: A teacher can use the interface as if they were a student, in order 
 Hypotheses:
 
 1. Our users will occasionally need topic-specific help from another human.
-2. New features would allow a user to monitor and help another user (with mutual consent).
+2. New features could allow a user to monitor and help another user - with mutual consent.
 3. This works for peers as well as school-typical settings between students and a teacher.
 
 #HSLIDE
 
-### How can we support the facilitator?
+### Ways to support the facilitator
 
-* _notification_, e.g. account messages + optional email
-* _previous solutions_ created by other facilitators in similar situations (-> OER status?)
-* _machine-recommended strategies_ for how to best help
-* _incentives_ e.g. by making solution visible by more than one learner
-* _contextual information_ that helps the facilitator understand the learner's problem
+* _Notification_, e.g. account messages + optional email
+* _Prior solutions_ created by other facilitators in similar situations (To what extent will these solutions have OER status?)
+* _Machine-recommended strategies_ for how to best help
+* _Incentives_ e.g. by making solution visible by more than one learner
+* _Contextual information_ that helps the facilitator understand the learner's problem
 
 #HSLIDE
 
