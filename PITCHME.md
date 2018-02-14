@@ -1,9 +1,9 @@
 #HSLIDE
 
-## How might we support
-### someone's <span style="color:#3694e4">learning project</span>?
+## X5gon
 
-(based on a true story)
+![Logo](images/x5gon_logo.png)
+
 
 #HSLIDE
 
