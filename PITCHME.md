@@ -37,13 +37,18 @@ s.kreitmayer@ucl.ac.uk
 
 ## Case A: The teacher as pioneer/curator
 
-Hypothesis: A teacher can use the interface as if they were a student, in order to find, compare, evaluate, and collect OERs. The resulting collection of OERs will be easy for the teacher to transform into a good course for their students.
+Hypothesis: A teacher can use the interface as if they were a student, in order to find, compare, evaluate, and collect OERs. The resulting collection of OERs will be easy for the teacher to transform into a high-quality course for their students.
 
 #HSLIDE
 
 ## Case B: The teacher as facilitator
 
-Hypothesis: While a student is using the interface, they will occasionally need topic-specific help from another human (e.g. teacher). Our system supports the teacher in providing the right kind of support efficiently
+Hypothesis: While a student is using the interface, they will occasionally need topic-specific help from another human (e.g. teacher). Our system supports the teacher in providing the right kind of support efficiently.
+
+#HSLIDE
+
+### Helping the teacher
+
 * via prepared solutions, e.g. machine-inferred strategies, or previous solutions by other humans in similar situations.
 * via incentives, e.g. by making their solution potentially visible by more than one learner, thus encouraging them to put in more effort.
 * via metacognitive support, e.g. providing useful contextual information that helps the other human understand the student's predicament in the first place.
