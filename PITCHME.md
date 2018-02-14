@@ -48,13 +48,13 @@ Hypotheses:
 
 #HSLIDE
 
-### Ways to support the facilitator
+### Ways to support peer facilitation
 
-* _Notification_, e.g. account messages + optional email
-* _Prior solutions_ created by other facilitators in similar situations (To what extent will these solutions have OER status?)
-* _Machine-recommended strategies_ for how to best help
-* _Incentives_ e.g. by making solution visible by more than one learner
 * _Contextual information_ that helps the facilitator understand the learner's problem
+* _Notification_: So people know when their help is needed
+* _Prior solutions_ created by others in similar situations (To what extent will solutions have OER status?)
+* _Machine-recommended strategies_ for how to help
+* _Incentives_: one solution can help many learners
 
 #HSLIDE
 
