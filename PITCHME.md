@@ -35,27 +35,28 @@ s.kreitmayer@ucl.ac.uk
 
 #HSLIDE
 
-## Case A: The teacher as pioneer/curator
+## A: The teacher as pioneer/curator
 
-Hypothesis: A teacher can use the interface as if they were a student, in order to find, compare, evaluate, and collect OERs. The resulting collection of OERs will be easy for the teacher to transform into a high-quality course for their students.
-
-#HSLIDE
-
-## Case B: The teacher as facilitator
-
-Hypothesis: While a student is using the interface, they will occasionally need topic-specific help from another human (e.g. teacher). Our system supports the teacher in providing the right kind of support efficiently.
+Hypothesis: A teacher can use the interface as if they were a student, in order to find, compare, evaluate, and collect OERs. The resulting collection of OERs will be easy for the teacher to transform into a high-quality course for their students. This won't require adding any features.
 
 #HSLIDE
 
-### Helping the teacher
+## B: The teacher (or peer) as facilitator
 
-* **prepared solutions**, e.g. machine-inferred strategies, or previous solutions by other humans in similar situations.
+Hypotheses:
+
+1. Learners using our system will occasionally need topic-specific help from another human.
+2. We can add features that allow a user to monitor and help another user (with mutual consent).
+3. This works for peers as well as school-typical settings between students and a teacher.
+
+#HSLIDE
+
+### Supporting the facilitator
+
+* **notification**, e.g. account messages + optional email.
+* **prepared solutions**, e.g. machine-recommended strategies, or previous solutions by other facilitators in similar situations.
 * **incentives**, e.g. by making their solution potentially visible by more than one learner.
-* **metacognitive support**, e.g. providing useful contextual information that helps the other human understand the student's predicament in the first place.
-
-#HSLIDE
-
-> What if we replace "teacher" with "peer"?
+* **contextual information** to help the facilitator understand the learner's specific predicament in the first place.
 
 #HSLIDE
 
