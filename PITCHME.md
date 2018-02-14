@@ -64,6 +64,8 @@ Hypotheses:
 
 Learners can benefit from peer activity in many ways besides active helping. For instance, simply knowing that they are not alone in their journey can increase learners' motivation and mitigate problems related to distraction, stress, and anxiety. Besides, learning together can be fun.
 
+#HSLIDE
+
 Hypothesis: By carefully designing social features that are "passive" and subtle, we can leverage psychological benefits that improve the learning experience, without distracting the learner.
 
 > Stefan's MSc students are working on this.
