@@ -58,7 +58,7 @@ Hypotheses:
 
 #HSLIDE
 
-# Pilot 4: Students using their institution's Learning Environment
+# Pilot 5: Students using their institution's Learning Environment
 
 #HSLIDE
 
