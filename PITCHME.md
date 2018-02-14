@@ -49,9 +49,11 @@ Hypothesis: While a student is using the interface, they will occasionally need 
 
 ### Helping the teacher
 
-* via prepared solutions, e.g. machine-inferred strategies, or previous solutions by other humans in similar situations.
-* via incentives, e.g. by making their solution potentially visible by more than one learner, thus encouraging them to put in more effort.
-* via metacognitive support, e.g. providing useful contextual information that helps the other human understand the student's predicament in the first place.
+* **prepared solutions**, e.g. machine-inferred strategies, or previous solutions by other humans in similar situations.
+* **incentives**, e.g. by making their solution potentially visible by more than one learner.
+* **metacognitive support**, e.g. providing useful contextual information that helps the other human understand the student's predicament in the first place.
+
+#HSLIDE
 
 > What if we replace "teacher" with "peer"?
 
