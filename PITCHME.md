@@ -2,7 +2,7 @@
 
 ![Logo](images/x5gon_logo.png)
 
-## Interface Pilots
+## HCI Pilots
 
 April 2018
 
@@ -17,8 +17,8 @@ s.kreitmayer@ucl.ac.uk
 2. Pilot: General public (UNESCO sites)
 3. Pilot: Teachers as curators
 4. Pilot: Users helping users
-5. Pilot: University Learning Environments
-6. Reflection and Discussion
+5. Pilot: Peer motivation
+6. Pilot: University Learning Environments
 
 #HSLIDE
 
@@ -29,6 +29,8 @@ s.kreitmayer@ucl.ac.uk
 
 ## Pilot 2: General public
 ### Topic: UNESCO sites
+
+> The learner's current and future location are likely to be relevant.
 
 #HSLIDE
 
@@ -58,7 +60,19 @@ Hypotheses:
 
 #HSLIDE
 
-# Pilot 5: Students using their institution's Learning Environment
+# Pilot 5: Peer Motivation
+
+Learners can benefit from peer activity in many ways besides active helping. For instance, simply knowing that they are not alone in their journey can increase learners' motivation and mitigate problems related to distraction, stress, and anxiety. Besides, learning together can be fun.
+
+Hypothesis: By carefully designing social features that are "passive" and subtle, we can leverage psychological benefits that improve the learning experience, without distracting the learner.
+
+> Stefan's MSc students are working on this.
+
+#HSLIDE
+
+# Pilot 6: Students using their institution's Learning Environment
+
+> Requires that the institution integrates our snippet into their LE.
 
 #HSLIDE
 
