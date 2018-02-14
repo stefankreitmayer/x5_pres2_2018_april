@@ -60,7 +60,7 @@ Hypotheses:
 
 #HSLIDE
 
-# Pilot 5: Peer Motivation
+## Pilot 5: Peer Motivation
 
 Learners can benefit from peer activity in many ways besides active helping. For instance, simply knowing that they are not alone in their journey can increase learners' motivation and mitigate problems related to distraction, stress, and anxiety. Besides, learning together can be fun.
 
@@ -70,7 +70,7 @@ Hypothesis: By carefully designing social features that are "passive" and subtle
 
 #HSLIDE
 
-# Pilot 6: Students using their institution's Learning Environment
+## Pilot 6: Students using their institution's Learning Environment
 
 > Requires that the institution integrates our snippet into their LE.
 
