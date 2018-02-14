@@ -16,7 +16,7 @@ s.kreitmayer@ucl.ac.uk
 1. Pilot: General public (Machine Learning)
 2. Pilot: General public (UNESCO sites)
 3. Pilot: Teachers
-4. Pilot: University Learning Environment
+4. Pilot: University Learning Environments
 5. Reflection and Discussion
 
 #HSLIDE
@@ -44,11 +44,8 @@ Teacher's role
 
 #HSLIDE
 
-## Thank you!
-### Questions please
+## Thanks! Questions?
 
-Find these slides at
+These slides are available at
 
 https://gitpitch.com/stefankreitmayer/x5_pres2_2018_april
-
-s.kreitmayer@ucl.ac.uk
