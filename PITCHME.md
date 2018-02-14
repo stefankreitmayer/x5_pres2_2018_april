@@ -2,7 +2,7 @@
 
 ![Logo](images/x5gon_logo.png)
 
-## HCI Pilots
+## User Pilot Studies
 
 April 2018
 
@@ -13,12 +13,12 @@ s.kreitmayer@ucl.ac.uk
 #HSLIDE
 
 ## OUTLINE
-1. Pilot: General public (Machine Learning)
-2. Pilot: General public (UNESCO sites)
-3. Pilot: Teachers as curators
-4. Pilot: Users helping users
-5. Pilot: Peer motivation
-6. Pilot: University Learning Environments
+1. General public (Machine Learning)
+2. General public (UNESCO sites)
+3. Teachers as curators
+4. Users helping users
+5. Peer motivation
+6. University Learning Environments
 
 #HSLIDE
 
