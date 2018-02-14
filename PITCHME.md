@@ -34,7 +34,7 @@ s.kreitmayer@ucl.ac.uk
 
 ## PILOT 3: Teachers as curators
 
-Hypothesis: A teacher can use the interface as if they were a student, in order to find, compare, evaluate, and collect OERs. The resulting collection of OERs will be easy for the teacher to transform into a high-quality course for their students. This won't require adding any features.
+Hypothesis: A teacher can use the interface as if they were a student, in order to find, compare, evaluate, and collect OERs. The resulting collection of OERs will be a well-sequenced list of useful, high-quality teaching materials. No additional features are required.
 
 #HSLIDE
 
