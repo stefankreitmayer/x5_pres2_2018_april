@@ -33,9 +33,13 @@ s.kreitmayer@ucl.ac.uk
 
 # PILOT 3: Teachers
 
-## Case A: The teacher as curator/pioneer
+#HSLIDE
+
+## Case A: The teacher as pioneer/curator
 
 Hypothesis: A teacher can use the interface as if they were a student, in order to find, compare, evaluate, and collect OERs. The resulting collection of OERs will be easy for the teacher to transform into a good course for their students.
+
+#HSLIDE
 
 ## Case B: The teacher as facilitator
 
