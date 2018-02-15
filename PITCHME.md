@@ -25,10 +25,9 @@ s.kreitmayer@ucl.ac.uk
 ## Pilot 1: Introduction to Machine Learning
 ### Students and general public
 
-* Iterative prototyping
-* Wizard of Oz study: Setup and results
-* Current version of the interface
-* Recent relevant iterations
+* Iterative prototyping approach
+* Demo of iterations and current version
+* Wizard of Oz study: method and results
 * Next steps
 
 #HSLIDE
