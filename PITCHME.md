@@ -12,7 +12,7 @@ s.kreitmayer@ucl.ac.uk
 
 #HSLIDE
 
-## PILOTS
+## SIX PILOTS
 1. Introduction to Machine Learning
 2. UNESCO sites
 3. Teachers as curators
@@ -28,6 +28,7 @@ s.kreitmayer@ucl.ac.uk
 * Iterative prototyping
 * Wizard of Oz study: Setup and results
 * Current version of the interface
+* Recent relevant iterations
 * Next steps
 
 #HSLIDE
