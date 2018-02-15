@@ -35,9 +35,9 @@ s.kreitmayer@ucl.ac.uk
 ## Pilot 2: UNESCO sites
 ### General public
 
-* Different requirements
+* Different requirements -> interface changes
 * Presumably shorter experiences
-* Factor the learner's current or future location into the recommendations
+* Dependent on users' current or future location
 * Search by site name? Search by location and radius?
 
 #HSLIDE
