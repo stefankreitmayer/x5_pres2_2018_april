@@ -25,12 +25,21 @@ s.kreitmayer@ucl.ac.uk
 ## Pilot 1: General public
 ### Topic: Machine Learning
 
+* Iterative prototyping
+* Wizard of Oz study: Setup and results
+* Current version of the interface
+* Features to explore
+
 #HSLIDE
 
 ## Pilot 2: General public
 ### Topic: UNESCO sites
 
-> The learner's current and future location are likely to be relevant.
+> Presumably shorter experiences
+
+> Recommend based on the learner's current or future location
+
+> Search by site name? Search by location and radius?
 
 #HSLIDE
 
