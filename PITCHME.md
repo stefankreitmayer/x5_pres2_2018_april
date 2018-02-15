@@ -56,7 +56,7 @@ Hypotheses:
 Hypotheses:
 * Our users will occasionally need topic-specific help from another human.
 * Additional features can allow a user (with mutual consent) to monitor and help another user.
-* One solution can satisfy various social relations, incl. teacher&students, study buddies...
+* One solution can satisfy a variety of social relations, incl. teacher&students, study buddies...
 
 #HSLIDE
 
