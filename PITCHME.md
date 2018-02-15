@@ -56,7 +56,7 @@ Hypotheses:
 Hypotheses:
 * Our users will occasionally need topic-specific help from another human.
 * Additional features can allow a user (with mutual consent) to monitor and help another user.
-* The same interface can satisfy a variety of usecases, incl. teacher&students, study buddies...
+* The same interface can satisfy a variety of relevant use cases, incl. teacher&students, study buddies...
 
 #HSLIDE
 
