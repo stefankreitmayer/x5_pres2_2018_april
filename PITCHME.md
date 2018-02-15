@@ -73,7 +73,10 @@ Hypotheses:
 
 ## Pilot 5: Peer Awareness
 
+Background:
 Learners can passively benefit from peer activity. For instance, simply knowing that they are not alone can increase motivation and reduce anxiety and stress.
+
+#HSLIDE
 
 Hypotheses:
 * Visualisations of peer activity can create a sense of togetherness without requiring explicit action from the learner.
