@@ -51,12 +51,13 @@ Hypotheses:
 
 #HSLIDE
 
-## Pilot 4: Users helping users
+## Pilot 4: Help and collaboration
 
 Hypotheses:
-* Our users will occasionally need topic-specific help from another human.
-* Additional features can allow a user (with mutual consent) to monitor and help another user.
-* One interface can satisfy a variety of relevant use cases, incl. teacher&students, study buddies...
+* Learners occasionally need topic-specific help from another human and/or wish to collaborate.
+* We can address these needs by enabling users to "buddy up" with mutual consent, without incurring major ethical or legal issues.
+* One design can satisfy a variety of relevant use cases, incl. teacher&students, study buddies...
+* Mechanisms for collaboration (Yuill & Rogers, 2012) can guide the design and evaluation.
 
 #HSLIDE
 
@@ -72,11 +73,12 @@ Hypotheses:
 
 ## Pilot 5: Peer Motivation
 
-Learners can benefit from peer activity in many ways besides active helping. Simply knowing that they are not alone can increase motivation and reduce anxiety. Learning together can be fun.
+Learners can benefit from peer activity in many ways besides active helping or collaboration. Simply knowing that they are not alone can increase motivation and reduce anxiety. Learning together can be fun.
 
 #HSLIDE
 
-Hypothesis: Social features, when designed and crafted carefully, can leverage psychological benefits that improve the learning experience, without causing too much distraction.
+Hypothesis:
+* We can improve the learning experience by designing technology that leverages psychological benefits without causing too much distraction.
 
 > Stefan's MSc students are currently working on this.
 
