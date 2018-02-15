@@ -37,7 +37,7 @@ s.kreitmayer@ucl.ac.uk
 
 * Different requirements -> interface changes
 * Presumably shorter experiences
-* Dependent on users' current or future location
+* Users' location (current or future) very relevant
 * Search by site name? Search by location and radius?
 
 #HSLIDE
