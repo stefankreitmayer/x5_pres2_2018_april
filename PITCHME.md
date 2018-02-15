@@ -16,8 +16,8 @@ s.kreitmayer@ucl.ac.uk
 1. Introduction to Machine Learning
 2. UNESCO sites
 3. Teachers as curators
-4. Users helping users
-5. Peer motivation
+4. Peer collabration
+5. Peer awareness
 6. University Learning Environments
 
 #HSLIDE
@@ -51,7 +51,7 @@ Hypotheses:
 
 #HSLIDE
 
-## Pilot 4: Help and collaboration
+## Pilot 4: Peer collaboration
 
 Hypotheses:
 * Learners occasionally need topic-specific help from another human and/or wish to collaborate.
@@ -61,9 +61,9 @@ Hypotheses:
 
 #HSLIDE
 
-### Ways to support peer facilitation
+### Starting points for design
 
-* _Contextual information_ that helps the facilitator understand the learner's problem
+* _Background information_ that helps the facilitator understand the learner's problem
 * _Notification_: Let people know when their help is needed
 * _Prior solutions_ created by others in similar situations (To what extent will solutions have OER status?)
 * _Machine-recommended strategies_ for how to help
@@ -71,14 +71,13 @@ Hypotheses:
 
 #HSLIDE
 
-## Pilot 5: Peer Motivation
+## Pilot 5: Peer Awareness
 
-Learners can benefit from peer activity in many ways besides active helping or collaboration. Simply knowing that they are not alone can increase motivation and reduce anxiety. Learning together can be fun.
+Learners can passively benefit from peer activity. For instance, simply knowing that they are not alone can increase motivation and reduce anxiety and stress.
 
-#HSLIDE
-
-Hypothesis:
-* We can improve the learning experience by designing technology that leverages psychological benefits without causing too much distraction.
+Hypotheses:
+* Visualisations of peer activity can create a sense of togetherness without requiring explicit action from the learner.
+* Effective visualisations may be realtime or summative, individual-centric or collective, process-focused or outcome-focused, grounded in data or fictional, etc.
 
 > Stefan's MSc students are currently working on this.
 
