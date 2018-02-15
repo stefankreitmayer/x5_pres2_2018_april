@@ -56,14 +56,14 @@ Hypotheses:
 Hypotheses:
 * Our users will occasionally need topic-specific help from another human.
 * Additional features can allow a user (with mutual consent) to monitor and help another user.
-* One solution can satisfy a variety of social relations, incl. teacher&students, study buddies...
+* The same interface can satisfy a variety of usecases, incl. teacher&students, study buddies...
 
 #HSLIDE
 
 ### Ways to support peer facilitation
 
 * _Contextual information_ that helps the facilitator understand the learner's problem
-* _Notification_: So people know when their help is needed
+* _Notification_: Let people know when their help is needed
 * _Prior solutions_ created by others in similar situations (To what extent will solutions have OER status?)
 * _Machine-recommended strategies_ for how to help
 * _Incentives_: one solution can help many learners
