@@ -47,7 +47,7 @@ s.kreitmayer@ucl.ac.uk
 Hypotheses:
 * A teacher can use the interface as if they were a student, in order to find, compare, evaluate, and collect OERs.
 * The resulting collection of OERs will be a well-sequenced list of useful, high-quality teaching materials.
-* No additional features are required.
+* No additional GUI features are required.
 
 #HSLIDE
 
@@ -55,8 +55,8 @@ Hypotheses:
 
 Hypotheses:
 * Our users will occasionally need topic-specific help from another human.
-* New features could allow a user to monitor and help another user - with mutual consent.
-* This works for peers as well as school-typical settings between students and a teacher.
+* Additional features could allow a user (with mutual consent) to monitor and help another user.
+* This works for peers as well as students+teacher.
 
 #HSLIDE
 
