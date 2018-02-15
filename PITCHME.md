@@ -62,19 +62,19 @@ Hypotheses:
 
 ## Pilot 5: Peer Motivation
 
-Learners can benefit from peer activity in many ways besides active helping. For instance, simply knowing that they are not alone in their journey can increase learners' motivation and mitigate problems related to distraction, stress, and anxiety. Besides, learning together can be fun.
+Learners can benefit from peer activity in many ways besides active helping. Simply knowing that they are not alone can increase motivation and reduce anxiety. Learning together can be fun.
 
 #HSLIDE
 
-Hypothesis: By carefully designing social features that are "passive" and subtle, we can leverage psychological benefits that improve the learning experience, without distracting the learner.
+Hypothesis: Social features, when designed and crafted carefully, can leverage psychological benefits that improve the learning experience, without causing too much distraction.
 
-> Stefan's MSc students are working on this.
+> Stefan's MSc students are currently working on this.
 
 #HSLIDE
 
 ## Pilot 6: Students using their institution's Learning Environment
 
-> Requires that the institution integrates our snippet into their LE.
+> Requires that the institution integrates our JavaScript into their LE.
 
 #HSLIDE
 
