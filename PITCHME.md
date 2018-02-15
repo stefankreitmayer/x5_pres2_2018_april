@@ -2,7 +2,7 @@
 
 ![Logo](images/x5gon_logo.png)
 
-## User Pilot Studies
+## User-Centred Pilot Studies
 
 April 2018
 
@@ -12,9 +12,9 @@ s.kreitmayer@ucl.ac.uk
 
 #HSLIDE
 
-## OUTLINE
-1. General public (Machine Learning)
-2. General public (UNESCO sites)
+## PILOTS
+1. Introduction to Machine Learning
+2. UNESCO sites
 3. Teachers as curators
 4. Users helping users
 5. Peer motivation
@@ -22,24 +22,23 @@ s.kreitmayer@ucl.ac.uk
 
 #HSLIDE
 
-## Pilot 1: General public
-### Topic: Machine Learning
+## Pilot 1: Introduction to Machine Learning
+### Students and general public
 
 * Iterative prototyping
 * Wizard of Oz study: Setup and results
 * Current version of the interface
-* Features to explore
+* Next steps
 
 #HSLIDE
 
-## Pilot 2: General public
-### Topic: UNESCO sites
+## Pilot 2: UNESCO sites
+### General public
 
-> Presumably shorter experiences
-
-> Recommend based on the learner's current or future location
-
-> Search by site name? Search by location and radius?
+* Different requirements
+* Presumably shorter experiences
+* Factor the learner's current or future location into the recommendations
+* Search by site name? Search by location and radius?
 
 #HSLIDE
 
